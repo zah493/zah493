@@ -5,7 +5,7 @@
 📊 Building dashboards, automating reports, and analyzing business data  
 🌍 Seeking **remote data analyst roles with US-based companies**  
 💼 Background in GL, tax filing, bank reconciliation, and reporting  
-📁 View my project: [Bank Reconciliation Automation](https://github.com/YOURUSERNAME/bank-reconciliation-automation)
+📁 View my project: [Bank Reconciliation Automation](https://github.com/zah493/bank-reconciliation-automation)
 
 ---
 
