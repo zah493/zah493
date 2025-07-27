@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @Zahid Hameed
-- 👀 I’m interested in Python, Data Analysis, Data Visualization, Machine Learning
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python, Data Analysis, Data Visualization
-- 📫 Reach me on zah493@gmail.com
+# 👋 Hi, I'm Zahid Hameed
 
-<!---
-zah493/zah493 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎯 13+ years in finance and operations — now pivoting into **Data Analytics**  
+🧮 Skilled in Excel (Advanced), Power BI, SQL (basic)  
+📊 Building dashboards, automating reports, and analyzing business data  
+🌍 Seeking **remote data analyst roles with US-based companies**  
+💼 Background in GL, tax filing, bank reconciliation, and reporting  
+📁 View my project: [Bank Reconciliation Automation](https://github.com/YOURUSERNAME/bank-reconciliation-automation)
+
+---
+
+### 🔧 Tools & Technologies
+
+- Excel (PivotTables, Power Query, SUMIFS, XLOOKUP)
+- Power BI (Reports, Dashboards)
+- SQL (basic queries)
+- GitHub, Google Sheets, ChatGPT
+
+---
+
+📫 Contact: [LinkedIn](https://linkedin.com/in/zahid-hameed-pk) | Email: zahidhameed01@hotmail.com
